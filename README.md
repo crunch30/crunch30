@@ -4,5 +4,5 @@
   <img src=".images/captain_crunch.png" 
        alt="Ein Bild"
        width=""
-       height="150">
+       height="160">
  </p>
